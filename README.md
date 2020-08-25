@@ -1,4 +1,4 @@
-# Escuela de Desarrollo Web by Platzi - Huddle landing page with single introductory section
+# Challenge - Escuela de Desarrollo Web by Platzi - Huddle landing page with single introductory section
 
 ![Vista previa del diseño de la página de inicio de Huddle con una única sección introductoria](./design/desktop-preview.jpg)
 
@@ -7,3 +7,5 @@
 Este reto pertenece a la lista de retos de [Frontend Mentor](https://www.frontendmentor.io)
 
 ## Demo
+
+[Huddle Landing Page](https://ivansevillaa.github.io/Huddle-Landing-Page/)
